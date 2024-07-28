@@ -4,7 +4,7 @@ local whitelistedPlayers = {
     ["forsuremicah"] = "[⭐] ",
     ["YT_Hacket"] = "[😎]",
     ["e_i5v"] = "[👑] ",
-    ["dattwinmade"] = "[⭐] ",
+    ["dattwinmade"] = "[👑📜]",
     ["hatelvst"] = "[😎]",
     ["Skyriela"] = "[😎]",
     ["f_xws"] = "[⭐]",
@@ -14,7 +14,7 @@ local whitelistedPlayers = {
     ["yzuv"] = "[😎]",
     ["27k_GAMING"] = "[😎]",
     ["tracinj"] = "[🌟]",
-    ["cayyhaunt"] = "[🌟]"
+    ["cayyhaunt"] = "[👑]"
 }
 
 -- Function to update display names for whitelisted players
